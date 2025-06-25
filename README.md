@@ -11,7 +11,7 @@ Try the game directly on [Itch.io](https://sdsesta.itch.io/1-minute-fruits).
 ## 🚀 Features
 - Developed with **Pygame**  
 - My first end-to-end game project  
-- Web playable on Itch.io  
+- playable from on Itch.io  
 
 ## 📂 Tech Stack
 - Python  
