@@ -21,6 +21,6 @@ Try the game directly on [Itch.io](https://sdsesta.itch.io/1-minute-fruits).
 
 ## 👨‍💻 Author
 **Sharnam Shah**  
-- [LinkedIn](https://www.linkedin.com/in/sharnamshah)  
+- [LinkedIn](https://www.linkedin.com/in/sharnam-shah-5aaa67275/)  
 - [Itch.io Profile](https://sdsesta.itch.io/)  
 - [GitHub](https://github.com/SharnamShah01)  
